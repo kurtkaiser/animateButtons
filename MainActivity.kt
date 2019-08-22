@@ -1,3 +1,7 @@
+// Android Button Animations
+// Kurt Kaiser
+// kurtkaiser.us
+
 package com.example.animatebuttons
 
 import android.support.v7.app.AppCompatActivity
